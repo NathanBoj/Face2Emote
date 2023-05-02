@@ -11,7 +11,7 @@ Visit [Token Generator](https://twitchtokengenerator.com/) for a simple way to g
 
 <img src="https://github.com/NathanBoj/Face2Emote/blob/main/images/ui.png" >
 
-If you want to change the emotes to your preferences, edit this section in main.py (need to recompile saj)
+If you want to change the emotes to your preferences, edit this section in Face2Emote.ipynb (need to recompile saj)
 
 <img src="https://github.com/NathanBoj/Face2Emote/blob/main/images/change.png" >
 
